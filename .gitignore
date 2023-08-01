@@ -1,3 +1,4 @@
 node_modules
 dist
 voximplant_credentials.json
+vox_ci_credentials.json
