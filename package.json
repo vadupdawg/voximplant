@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@voximplant/voxengine-ci": "^2.2.0"
+  }
+}

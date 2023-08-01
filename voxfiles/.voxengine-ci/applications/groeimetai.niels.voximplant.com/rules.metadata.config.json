@@ -1,0 +1,1 @@
+[{"ruleName":"incoming","ruleId":172450,"scenarios":[{"scenarioName":"chatgpt","scenarioId":100105}],"rulePattern":".+?[1-9]\\d{1,14}"}]
